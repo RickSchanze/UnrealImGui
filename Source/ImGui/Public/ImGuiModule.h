@@ -7,7 +7,6 @@
 #include "ImGuiTextureHandle.h"
 
 #include <Modules/ModuleManager.h>
-asdasd
 
 class FImGuiModule : public IModuleInterface
 {
